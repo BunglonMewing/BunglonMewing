@@ -1,18 +1,38 @@
-<h1 align="center">Hi 👋, I'm BunglonMewing or CircleDev</h1>
-<h3 align="center">Hello, I am an Indie Game Developer, but sometimes my hobby is making applications or websites.</h3>
+# Hello 👋, I'm Devin Avio Dika Putra
+### Game Developer Indie
 
-- 🔭 I’m currently working on [UNEMPLOYMENT](No Link)
+I am an indie game developer and a YouTube content creator. I also frequently create websites.
 
-- 🌱 I’m currently learning **Node.js, GdScript, Kotlin.**
+## Contact Me
+<p><a href="https://YouTube.com/@circledevelop" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
 
-- 👯 I’m looking to collaborate on [ArchiveTune IconPack](https://github.com/ArchiveTuneApp/IconPack)
+## Skills
 
-- 🤖 Game Engine [Godot Engine](https://github.com/godotengine/godot)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@circledevelop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="circledevelop" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwhgOHRrAbtnvkx4cimuqKBhXQ32Qf8Cj8smfLa0y2XiDmfbBaGqFS3s&s=10" alt="gdscript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://godotengine.org/assets/press/icon_color.png" alt="godot engine" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=BunglonMewing&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunglonMewing&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BunglonMewing&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/BunglonMewing/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=BunglonMewing" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BunglonMewing&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
