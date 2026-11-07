@@ -1,0 +1,617 @@
+{
+ "key": "35f13510",
+ "stars": 2,
+ "contributions": 181,
+ "repos": 48,
+ "followers": 8,
+ "languages": [
+  [
+   "JavaScript",
+   928730
+  ],
+  [
+   "HTML",
+   852587
+  ],
+  [
+   "Java",
+   235607
+  ],
+  [
+   "TypeScript",
+   221676
+  ],
+  [
+   "CSS",
+   148449
+  ],
+  [
+   "Kotlin",
+   39772
+  ],
+  [
+   "PLpgSQL",
+   24795
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "Notes",
+   "url": "https://github.com/BunglonMewing/Notes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "IconPack",
+   "url": "https://github.com/BunglonMewing/IconPack",
+   "text": "Awesome Collection of ArchiveTune Icon Pack From Community",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Zoya",
+   "url": "https://github.com/BunglonMewing/Zoya",
+   "text": "Zoya is a free and open source AI chat application... Zoya is not an ordinary AI Chat Application, but an AI for Handling/Downloading Videos from various platforms.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Zoya",
+   "url": "https://github.com/BunglonMewing/Zoya",
+   "text": "Zoya is a free and open source AI chat application... Zoya is not an ordinary AI Chat Application, but an AI for Handling/Downloading Videos from various platforms.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "TnB_project",
+   "url": "https://github.com/BunglonMewing/TnB_project",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "Hack",
+   "topics": []
+  },
+  {
+   "name": "RaVin-Store",
+   "url": "https://github.com/BunglonMewing/RaVin-Store",
+   "text": "RaVin Store adalah Website yang menyediakan Toko Aplikasi Gratis",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "FluxLauncher",
+   "url": "https://github.com/BunglonMewing/FluxLauncher",
+   "text": "Launcher Minecraft java yang lebih mengoptimalkan Peforma",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "grabr",
+   "url": "https://github.com/BunglonMewing/grabr",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BelajarApp",
+   "url": "https://github.com/BunglonMewing/BelajarApp",
+   "text": "BelajarApp repository for learning and practice",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Mori",
+   "url": "https://github.com/BunglonMewing/Mori",
+   "text": "Client-side downloader app built with Capacitor and Tauri.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "BetMC_UI",
+   "url": "https://github.com/BunglonMewing/BetMC_UI",
+   "text": "Welcome To BetMC UI Resources Pack for Minecraft Bedrock \"_\"",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "GooseDroid",
+   "url": "https://github.com/BunglonMewing/GooseDroid",
+   "text": "An Android virtual pet — a procedurally animated goose that lives as a screen overlay with AI behaviors, touch interactions, needs system, evolution stages, and mini-games. No sprites, all Canvas.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Grabit",
+   "url": "https://github.com/BunglonMewing/Grabit",
+   "text": "Client-side downloader app built with Capacitor and Tauri.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Valentines",
+   "url": "https://github.com/BunglonMewing/Valentines",
+   "text": "Valentine's Website 2026 💝 A cute and interactive website to ask your special someone to be your Valentine!",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "FlowNote",
+   "url": "https://github.com/BunglonMewing/FlowNote",
+   "text": "Aplikasi catatan sederhana",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NoteFlowApp",
+   "url": "https://github.com/BunglonMewing/NoteFlowApp",
+   "text": "Aplikasi catatan",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "BunglonMewing",
+   "url": "https://github.com/BunglonMewing/BunglonMewing",
+   "text": "My Profile Github",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "IconPack",
+   "url": "https://github.com/BunglonMewing/IconPack",
+   "text": "Awesome Collection of ArchiveTune Icon Pack From Community",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "WebBucin-V2",
+   "url": "https://github.com/BunglonMewing/WebBucin-V2",
+   "text": "Web Bucin V2 khusus buat orang tercinta & tersayang.",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "zoyanz-api",
+   "url": "https://github.com/BunglonMewing/zoyanz-api",
+   "text": "bikin UI",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Notes",
+   "url": "https://github.com/BunglonMewing/Notes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "ig-downloader",
+   "url": "https://github.com/BunglonMewing/ig-downloader",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "code",
+   "url": "https://github.com/BunglonMewing/code",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "instadown",
+   "url": "https://github.com/BunglonMewing/instadown",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "nama-repo",
+   "url": "https://github.com/BunglonMewing/nama-repo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "theresa_rest-apis",
+   "url": "https://github.com/BunglonMewing/theresa_rest-apis",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "NoteAI",
+   "url": "https://github.com/BunglonMewing/NoteAI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Down-and-loader",
+   "url": "https://github.com/BunglonMewing/Down-and-loader",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "OmniDownloader",
+   "url": "https://github.com/BunglonMewing/OmniDownloader",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "DownloaderAll",
+   "url": "https://github.com/BunglonMewing/DownloaderAll",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "WhatsApp-Visualizer",
+   "url": "https://github.com/BunglonMewing/WhatsApp-Visualizer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "GOG-Bot",
+   "url": "https://github.com/BunglonMewing/GOG-Bot",
+   "text": "New Base Bot WhatsApp",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ZenBot",
+   "url": "https://github.com/BunglonMewing/ZenBot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ZeCom",
+   "url": "https://github.com/BunglonMewing/ZeCom",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "StickerStorageReborn",
+   "url": "https://github.com/BunglonMewing/StickerStorageReborn",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "StickerDoks",
+   "url": "https://github.com/BunglonMewing/StickerDoks",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "StickerHub",
+   "url": "https://github.com/BunglonMewing/StickerHub",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "StickMeme",
+   "url": "https://github.com/BunglonMewing/StickMeme",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "MemeStick",
+   "url": "https://github.com/BunglonMewing/MemeStick",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "TooBox",
+   "url": "https://github.com/BunglonMewing/TooBox",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "WeGOG1",
+   "url": "https://github.com/BunglonMewing/WeGOG1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "WeGOG",
+   "url": "https://github.com/BunglonMewing/WeGOG",
+   "text": "WeGOG is a community website for ( grup orang gabut ), Currently under development. If you'd like to contribute, please contact me at 0851797189.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "TubeZen",
+   "url": "https://github.com/BunglonMewing/TubeZen",
+   "text": "A third-party YouTube app without ads. Still in development.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Tanda-Pengenal",
+   "url": "https://github.com/BunglonMewing/Tanda-Pengenal",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Bot",
+   "url": "https://github.com/BunglonMewing/Bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BunglonSigma-Store",
+   "url": "https://github.com/BunglonMewing/BunglonSigma-Store",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Tebak-mob-Minecraft-",
+   "url": "https://github.com/BunglonMewing/Tebak-mob-Minecraft-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Puzzle-Your-mind-",
+   "url": "https://github.com/BunglonMewing/Puzzle-Your-mind-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Puzzle-your-mind",
+   "url": "https://github.com/BunglonMewing/Puzzle-your-mind",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Website",
+   "url": "https://github.com/BunglonMewing/Website",
+   "text": "Untuk subscriber",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Mewing-website",
+   "url": "https://github.com/BunglonMewing/Mewing-website",
+   "text": "Tentang saya sendiri",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
