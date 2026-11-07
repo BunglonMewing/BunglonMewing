@@ -1,38 +1,25 @@
-# Hello 👋, I'm Devin Avio Dika Putra
-### Game Developer Indie
+<div align="center">
 
-I am an indie game developer and a YouTube content creator. I also frequently create websites.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m BunglonMewing"></picture>
 
-## Contact Me
-<p><a href="https://YouTube.com/@circledevelop" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-## Skills
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwhgOHRrAbtnvkx4cimuqKBhXQ32Qf8Cj8smfLa0y2XiDmfbBaGqFS3s&s=10" alt="gdscript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://godotengine.org/assets/press/icon_color.png" alt="godot engine" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-## GitHub Stats
+<a href="https://github.com/BunglonMewing/Zoya"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zoya-dark.svg"><img src="assets/project-zoya-light.svg" width="49%" alt="Zoya"></picture></a>&nbsp;<a href="https://github.com/BunglonMewing/RaVin-Store"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ravin-store-dark.svg"><img src="assets/project-ravin-store-light.svg" width="49%" alt="RaVin-Store"></picture></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BunglonMewing&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<a href="https://github.com/BunglonMewing/grabr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-grabr-dark.svg"><img src="assets/project-grabr-light.svg" width="49%" alt="grabr"></picture></a>&nbsp;<a href="https://github.com/BunglonMewing/Notes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-notes-dark.svg"><img src="assets/project-notes-light.svg" width="49%" alt="Notes"></picture></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunglonMewing&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BunglonMewing&theme=default" alt="GitHub Streak" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<img src="https://profile-counter.glitch.me/BunglonMewing/count.svg?" alt="visitors count" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-## GitHub Trophies
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/BunglonMewing?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BunglonMewing" alt="trophy" />
+<a href="https://metawka.github.io/expressive-profile/?from=BunglonMewing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BunglonMewing&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
+</div>
