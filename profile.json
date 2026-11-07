@@ -21,17 +21,21 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I am a game and application developer, and also a YouTube content creator.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "code",
+        "label": "Python • Javascript"
       },
       {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "icon": "database",
+        "label": "Firebase • Supabase"
+      },
+      {
+        "icon": "school",
+        "label": "Guna Cipta Vocational High School "
       }
     ]
   },
@@ -69,6 +73,14 @@
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:itchdotio",
+            "label": "Developer"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Javascript"
           }
         ]
       },
@@ -80,12 +92,24 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:termius",
+            "label": "Termux"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:godotengine",
+            "label": "Godot"
+          },
+          {
+            "icon": "brand:acode",
+            "label": "Acode"
           }
         ]
       }
@@ -118,16 +142,12 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "icon": "brand:youtube",
+        "url": "https://YouTube.com/@circledevelop"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:instagram",
+        "url": "https://instagram.com/@circledevelop1"
       }
     ],
     "variant": "chip",
@@ -135,19 +155,7 @@
     "card": true
   },
   "buttons": {
-    "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
-      }
-    ]
+    "items": [],
+    "card": true
   }
 }
