@@ -1,7 +1,7 @@
 {
- "key": "51ce33eb",
+ "key": "f5bf7450",
  "stars": 3,
- "contributions": 192,
+ "contributions": 190,
  "repos": 49,
  "followers": 8,
  "languages": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 3,
+    "c": 2,
     "day": 15,
     "today": true
    },
@@ -185,6 +185,15 @@
    "topics": []
   },
   {
+   "name": "Mori",
+   "url": "https://github.com/BunglonMewing/Mori",
+   "text": "Client-side media downloader App and CLI built with Capacitor and Node.js.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
    "name": "TeleCat",
    "url": "https://github.com/BunglonMewing/TeleCat",
    "text": "Open-source third-party Telegram client with not many but useful modifications.",
@@ -218,15 +227,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "Mori",
-   "url": "https://github.com/BunglonMewing/Mori",
-   "text": "Client-side downloader app built with Capacitor and Tauri.",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
