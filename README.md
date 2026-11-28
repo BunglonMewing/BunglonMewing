@@ -8,9 +8,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/BunglonMewing/Notes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-notes-dark.svg"><img src="assets/project-notes-light.svg" width="49%" alt="Notes"></picture></a>&nbsp;<a href="https://github.com/BunglonMewing/IconPack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-iconpack-dark.svg"><img src="assets/project-iconpack-light.svg" width="49%" alt="IconPack"></picture></a>
+<a href="https://github.com/BunglonMewing/IconPack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-iconpack-dark.svg"><img src="assets/project-iconpack-light.svg" width="49%" alt="IconPack"></picture></a>&nbsp;<a href="https://github.com/BunglonMewing/Zoya"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zoya-dark.svg"><img src="assets/project-zoya-light.svg" width="49%" alt="Zoya"></picture></a>
 
-<a href="https://github.com/BunglonMewing/Zoya"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zoya-dark.svg"><img src="assets/project-zoya-light.svg" width="49%" alt="Zoya"></picture></a>
+<a href="https://github.com/BunglonMewing/Vcode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vcode-dark.svg"><img src="assets/project-vcode-light.svg" width="49%" alt="Vcode"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

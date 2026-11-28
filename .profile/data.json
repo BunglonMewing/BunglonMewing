@@ -1,7 +1,7 @@
 {
- "key": "8158c7c6",
+ "key": "1c14c6a8",
  "stars": 3,
- "contributions": 198,
+ "contributions": 199,
  "repos": 51,
  "followers": 9,
  "languages": [
@@ -138,25 +138,20 @@
    {
     "c": 1,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 1,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 6
  },
  "pins": [
-  {
-   "name": "Notes",
-   "url": "https://github.com/BunglonMewing/Notes",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
-  },
   {
    "name": "IconPack",
    "url": "https://github.com/BunglonMewing/IconPack",
@@ -172,6 +167,15 @@
    "text": "Zoya is a free and open source AI chat application... Zoya is not an ordinary AI Chat Application, but an AI for Handling/Downloading Videos from various platforms.",
    "fork": false,
    "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Vcode",
+   "url": "https://github.com/BunglonMewing/Vcode",
+   "text": "Code → Video is a lightweight, self-hosted web application that generates MP4 videos from JavaScript canvas code. Write a composition once, preview it in the browser, and render it on the server with FFmpeg.",
+   "fork": true,
+   "stars": 0,
    "language": "JavaScript",
    "topics": []
   }
